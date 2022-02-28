@@ -1,0 +1,16 @@
+body {
+    width: 100%;
+    height: 100vh;
+    padding: 0;
+    margin: 0;
+    background-color: grey;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#answer {
+    color: rgb(163, 196, 19);
+    text-decoration: underline;
+}
