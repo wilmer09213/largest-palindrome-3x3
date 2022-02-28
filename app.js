@@ -22,7 +22,7 @@ const getLargestPalindrome3DigitNumber = () => {
             }
         }
     }
-    console.log(biggestPalindromeNumber)
+    console.log(`Largest Palindrome: ${variables} = ${biggestPalindromeNumber}`)
     return biggestPalindromeNumber;
 }
 getLargestPalindrome3DigitNumber();
